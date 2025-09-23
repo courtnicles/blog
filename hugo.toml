@@ -44,9 +44,9 @@ theme = 'vintage-web-hugo-theme'
   welcome_message = "Welcome to our vintage web experience!"
 
   # Content Display
-  show_featured_sections = true
+  show_featured_sections = false
   show_stats = true
-  show_retro_elements = true
+  show_retro_elements = false
   show_sharing = false
 
   # Footer Options
