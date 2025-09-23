@@ -5,13 +5,10 @@
     <loc>http://localhost:1313/posts/post/</loc>
     <lastmod>2024-01-01T10:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/series/2025/</loc>
+    <lastmod>2024-01-01T10:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2024-01-01T10:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/category1/</loc>
-    <lastmod>2024-01-01T10:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/category2/</loc>
     <lastmod>2024-01-01T10:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
@@ -20,22 +17,16 @@
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-01-01T10:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/random/</loc>
+    <lastmod>2024-01-01T10:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/series/</loc>
     <lastmod>2024-01-01T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/series/series-name/</loc>
-    <lastmod>2024-01-01T10:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/tag1/</loc>
-    <lastmod>2024-01-01T10:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/tag2/</loc>
-    <lastmod>2024-01-01T10:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/tag3/</loc>
-    <lastmod>2024-01-01T10:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-01-01T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/writing/</loc>
     <lastmod>2024-01-01T10:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
