@@ -4,36 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86464612-0e8c-4764-9335-90eb5f346b71" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.hugo_build.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/quickstart.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archetypes/default.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/about/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/post.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hugo.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/categories/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/categories/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/categories/page/1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/main.min.f3239320356012e75e56b485acbe843df5e30ad1394d6abfc4a43aa4d51478f0.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/main.min.31530ca7626eaa26864855cd725b9ff139b89f64769abfe234c890102381f252.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/series/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/series/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/series/page/1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/sitemap.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/tags/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/tags/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/tags/page/1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/vintage-web-hugo-theme" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/vintage-web-hugo-theme/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/vintage-web-hugo-theme/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/vintage-web-hugo-theme/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/vintage-web-hugo-theme/assets/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/vintage-web-hugo-theme/layouts/_default/baseof.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/vintage-web-hugo-theme/layouts/_default/baseof.html" afterDir="false" />
+    <list default="true" id="86464612-0e8c-4764-9335-90eb5f346b71" name="Changes" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hugo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/hugo.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/category1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/category1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/category1/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/category1/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/category2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/category2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/category2/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/category2/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/posts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/posts/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/posts/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/posts/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/posts/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/posts/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/posts/post/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/posts/post/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/series/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/series/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/series/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/series/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/series/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/series/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/series/series-name/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/series/series-name/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/series/series-name/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/series/series-name/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/series/series-name/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/series/series-name/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/tag1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/tag1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/tag1/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/tag1/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/tag2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/tag2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/tag2/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/tag2/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/tag3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/tag3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/tag3/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/tag3/index.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,21 +47,21 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "courtnicles"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;courtnicles&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/raisingpixels/vintage-web-hugo-theme.git",
-    "accountId": "45dc67ce-5d43-4e88-9034-6a1f84504efd"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/courtnicles/blog.git&quot;,
+    &quot;accountId&quot;: &quot;45dc67ce-5d43-4e88-9034-6a1f84504efd&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="334zA8fRY8nS7n2863FR9duJti5" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -68,6 +71,8 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/courtneynguyen/quickstart/public/about",
     "node.js.detected.package.eslint": "true",
@@ -101,12 +106,54 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1758590985925</updated>
-      <workItem from="1758590986941" duration="5157000" />
+      <workItem from="1758590986941" duration="6307000" />
+      <workItem from="1758598485675" duration="513000" />
+      <workItem from="1758599461711" duration="888000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1758596465743</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1758596465743</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1758596562953</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1758596562953</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1758596688942</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1758596688942</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -114,7 +161,6 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/themes/vintage-web-hugo-theme/assets/js/main.js</url>
           <line>304</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
