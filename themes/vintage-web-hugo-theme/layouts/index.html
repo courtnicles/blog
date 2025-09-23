@@ -1,7 +1,7 @@
 {{ define "main" }}
 <div class="window">
     <div class="window-header">
-        <span class="window-title">Welcome to {{ .Site.Title }}</span>
+        <span class="window-title">welcome to my special place</span>
         <div class="window-controls">
             <span class="window-button">_</span>
             <span class="window-button">□</span>
@@ -18,7 +18,7 @@
         {{ if .Site.Params.show_welcome_message }}
         <div class="marquee">
             <div class="marquee-text">
-                {{ .Site.Params.welcome_message | default "Welcome to our vintage web experience! Browse through our content with that classic 90s feel." }}
+                {{ .Site.Params.welcome_message | default "let's pretend things were how they used to be for a bit" }}
             </div>
         </div>
         {{ end }}
@@ -87,9 +87,7 @@
             {{ $typography := .Site.GetPage "/posts/typography-showcase" }}
             {{ if $typography }}
             <div style="background: var(--bg-secondary); border: 1px outset var(--border-dark); padding: 8px; text-align: center;">
-                <div style="font-weight: bold; margin-bottom: 4px;">Typography</div>
-                <div style="font-size: 10px; margin-bottom: 6px;">See all typography features</div>
-                <a href="{{ $typography.Permalink }}" class="btn">View Demo</a>
+                <div style="font-weight: bold; margin-bottom: 4px;">Media</div>
             </div>
             {{ end }}
             
