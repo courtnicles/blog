@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2025 on courtnicles blog</title>
+    <link>http://localhost:1313/series/2025/</link>
+    <description>Recent content in 2025 on courtnicles blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2024 10:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/series/2025/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>first post</title>
+      <link>http://localhost:1313/posts/post/</link>
+      <pubDate>Mon, 01 Jan 2024 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/post/</guid>
+      <description>I dabbled in HTML and CSS when I was a kid playing neopets.&lt;br&gt;&#xA;I&#39;m trying to relearn it.&lt;br&gt;&#xA;And I guess build a positive digital footprint.&lt;br&gt;&#xA;My inspiration was from a not-so-positive site though. The color scheme was a lot more pleasing than the default.&lt;br&gt;&#xA;Would you be able to get what it is?&#xA;&lt;br&gt;&#xA;&lt;img src=&#34;https://media.tenor.com/5CgfDZqRmHsAAAAj/chiikawa.gif&#34;&gt;</description>
+    </item>
+  </channel>
+</rss>
