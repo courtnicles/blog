@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="86464612-0e8c-4764-9335-90eb5f346b71" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.hugo_build.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/quickstart.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/archetypes/default.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/about/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/posts/post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hugo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/categories/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/categories/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/categories/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/main.min.f3239320356012e75e56b485acbe843df5e30ad1394d6abfc4a43aa4d51478f0.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/main.min.31530ca7626eaa26864855cd725b9ff139b89f64769abfe234c890102381f252.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/series/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/series/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/series/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sitemap.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/tags/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/tags/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/tags/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/vintage-web-hugo-theme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/vintage-web-hugo-theme/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/vintage-web-hugo-theme/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/vintage-web-hugo-theme/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/vintage-web-hugo-theme/assets/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/vintage-web-hugo-theme/layouts/_default/baseof.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/vintage-web-hugo-theme/layouts/_default/baseof.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "courtnicles"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/raisingpixels/vintage-web-hugo-theme.git",
+    "accountId": "45dc67ce-5d43-4e88-9034-6a1f84504efd"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="334zA8fRY8nS7n2863FR9duJti5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/courtneynguyen/quickstart/public/about",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/about" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/content" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9c94529fcfe0-JavaScript-PY-252.26199.168" />
+        <option value="bundled-python-sdk-b3d66beaba9a-c6efb3732140-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.26199.168" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86464612-0e8c-4764-9335-90eb5f346b71" name="Changes" comment="" />
+      <created>1758590985925</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758590985925</updated>
+      <workItem from="1758590986941" duration="5157000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/themes/vintage-web-hugo-theme/assets/js/main.js</url>
+          <line>304</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
