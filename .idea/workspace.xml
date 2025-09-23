@@ -4,22 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86464612-0e8c-4764-9335-90eb5f346b71" name="Changes" comment="attempt 2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hugo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/hugo.toml" afterDir="false" />
+    <list default="true" id="86464612-0e8c-4764-9335-90eb5f346b71" name="Changes" comment="Update home page">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/jekyll-docker.yml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/category1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/category1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/category2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/category2/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/posts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/posts/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/posts/post/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/posts/post/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/series/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/series/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/series/series-name/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/series/series-name/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/tag1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/tag1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/tag2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/tag2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/tag3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/tag3/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -258,7 +246,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758604345115</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Update home page">
+      <option name="closed" value="true" />
+      <created>1758605194692</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1758605194692</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -279,7 +275,8 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Remove header" />
     <MESSAGE value="attempt 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="attempt 2" />
+    <MESSAGE value="Update home page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update home page" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
