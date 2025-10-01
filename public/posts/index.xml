@@ -6,12 +6,19 @@
     <description>Recent content in Posts on courtnicles blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 2024 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2024 23:16:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>yt-dlt</title>
+      <link>http://localhost:1313/posts/yt-dlt/</link>
+      <pubDate>Mon, 30 Sep 2024 23:16:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/yt-dlt/</guid>
+      <description>&lt;b&gt;How I Converted My Favorite Yoga with Adrienne Deep Stretch Youtube Video to a .wav file for Audio Only then Combined it with EMDR healing music on the command line and now I can do it anywhere with no ads (even though Kevin just gave me youtube premium)&lt;/b&gt;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;code&gt;&#xA;https://github.com/yt-dlp/yt-dlp&lt;br&gt;&#xA;brew install yt-dlp&lt;br&gt;&#xA;https://ffmpeg.org/documentation.html&lt;br&gt;&#xA;git clone https://git.ffmpeg.org/ffmpeg.git ffmpeg&lt;br&gt;&#xA;&lt;br&gt;&#xA;#make file stuff&lt;br&gt;&#xA;./configure&lt;br&gt;&#xA;make&lt;br&gt;&#xA;sudo make install&lt;br&gt;&#xA;&lt;br&gt;&#xA;#download youtube videos&lt;br&gt;&#xA;yt-dlp &#34;https://www.youtube.com/watch?v=GLy2rYHwUqY&amp;list=PLui6Eyny-Uzwzd-9fi_cmhz3UW9gS1raf&amp;index=1&#34;&lt;br&gt;&#xA;yt-dlp &#34;https://www.youtube.com/watch?v=jgMH89btVQA&#34;&lt;br&gt;&#xA;&lt;br&gt;&#xA;#extract audio&lt;br&gt;&#xA;ffmpeg -i EMDR\ Bilateral\ Music\ to\ Calm\ Fight-or-Flight\ \357\275\234\ Ease\ Panic\,\ PTSD\ \&amp;\ Stress\ \(60\ BPM\,\ Wear\ Headphones\)\ \[jgMH89btVQA\].opus -ar 22050 emdr.wav&lt;br&gt;&#xA;ffmpeg -i Total\ Body\ Yoga\ \357\275\234\ Deep\ Stretch\ \357\275\234\ Yoga\ With\ Adriene\ \[GLy2rYHwUqY\].webm -ar 22050 yoga.wav&lt;br&gt;&#xA;&lt;br&gt;&#xA;#combine files&lt;br&gt;&#xA;ffmpeg -i yoga.wav -i emdr.wav -filter_complex amix=inputs=2:duration=first:dropout_transition=0 output.wav&lt;br&gt;&#xA;&lt;br&gt;&#xA;#crop intro&lt;br&gt;&#xA;ffmpeg -ss 40 -i output.wav cropped.wav&lt;br&gt;&#xA;&lt;/code&gt;&#xA;&#xA;&lt;br&gt;</description>
+    </item>
     <item>
       <title>first post</title>
       <link>http://localhost:1313/posts/post/</link>
-      <pubDate>Mon, 01 Jan 2024 10:00:00 +0000</pubDate>
+      <pubDate>Sun, 22 Sep 2024 10:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/post/</guid>
       <description>I dabbled in HTML and CSS when I was a kid playing neopets.&lt;br&gt;&#xA;I&#39;m trying to relearn it.&lt;br&gt;&#xA;And I guess build a positive digital footprint.&lt;br&gt;&#xA;My inspiration was from a not-so-positive site though. The color scheme was a lot more pleasing than the default.&lt;br&gt;&#xA;Would you be able to get what it is?&#xA;&lt;br&gt;&#xA;&lt;img src=&#34;https://media.tenor.com/5CgfDZqRmHsAAAAj/chiikawa.gif&#34;&gt;</description>
     </item>
