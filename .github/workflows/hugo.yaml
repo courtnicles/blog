@@ -105,7 +105,7 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
       - name: Deploy to Neocities
-          uses: bcomnes/deploy-to-neocities@v1
+          uses: actions/deploy-to-neocities@v1
           with:
             api_token: ${{ secrets.NEOCITIES_API_TOKEN }}
             cleanup: true
