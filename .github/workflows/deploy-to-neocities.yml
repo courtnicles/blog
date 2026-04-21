@@ -36,7 +36,7 @@ jobs:
           submodules: recursive
       # Build the site with Hugo
       - name: Build with Hugo
-        run: hugo --minify
+        run: hugo --theme=vintage-web-hugo-theme --minify
       # Copy my custom 404 page to not_found.html so it
       # will be picked up by Neocities
       - name: Insert 404 page
