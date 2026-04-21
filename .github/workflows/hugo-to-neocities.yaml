@@ -9,8 +9,8 @@ permissions:
   pages: write
   id-token: write
 concurrency:
-  group: pages
-  cancel-in-progress: false
+  group: deploy-to-neocities
+  cancel-in-progress: true
 defaults:
   run:
     shell: bash
@@ -24,6 +24,11 @@ jobs:
       NODE_VERSION: 22.18.0
       TZ: Europe/Oslo
     steps:
+      - name: Hugo setup
+        uses: peaceiris/actions-hugo@v2.6.0
+        with:
+        hugo-version: '0.121.1'
+        extended: true
       - name: Checkout
         uses: actions/checkout@v5
         with:
@@ -101,6 +106,9 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
     steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+      - name: Deploy to Neocities
+        uses: bcomnes/deploy-to-neocities@v1
+        with:
+          api_token: ${{ secrets.NEOCITIES_API_TOKEN }}
+          cleanup: true
+          dist_dir: public
