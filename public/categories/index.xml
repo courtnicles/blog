@@ -6,8 +6,22 @@
     <description>Recent content in Categories on courtnicles blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Dec 2025 19:51:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 22:11:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dream-Journal</title>
+      <link>http://localhost:1313/categories/dream-journal/</link>
+      <pubDate>Tue, 21 Apr 2026 22:11:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/dream-journal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Writing</title>
+      <link>http://localhost:1313/categories/writing/</link>
+      <pubDate>Thu, 11 Dec 2025 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/writing/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Recipes</title>
       <link>http://localhost:1313/categories/recipes/</link>
@@ -18,15 +32,8 @@
     <item>
       <title>Code</title>
       <link>http://localhost:1313/categories/code/</link>
-      <pubDate>Mon, 30 Sep 2024 23:16:00 +0000</pubDate>
+      <pubDate>Tue, 30 Sep 2025 23:16:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/code/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Writing</title>
-      <link>http://localhost:1313/categories/writing/</link>
-      <pubDate>Sun, 22 Sep 2024 10:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/writing/</guid>
       <description></description>
     </item>
   </channel>

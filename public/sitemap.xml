@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2025-12-11T10:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/vietnamese-cinnamon-chocolate-chip-cookies/</loc>
     <lastmod>2025-12-09T19:51:00+00:00</lastmod>
   </url><url>
@@ -9,22 +12,31 @@
     <lastmod>2025-12-09T19:16:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/yt-dlt/</loc>
-    <lastmod>2024-09-30T23:16:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/about/</loc>
-    <lastmod>2024-09-22T10:00:00+00:00</lastmod>
+    <lastmod>2025-09-30T23:16:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/post/</loc>
-    <lastmod>2024-09-22T10:00:00+00:00</lastmod>
+    <lastmod>2025-09-22T10:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/series/2025/</loc>
-    <lastmod>2025-12-09T19:51:00+00:00</lastmod>
+    <lastmod>2025-12-11T10:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-12-09T19:51:00+00:00</lastmod>
+    <lastmod>2025-12-11T10:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-12-09T19:51:00+00:00</lastmod>
+    <lastmod>2025-12-11T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/random/</loc>
+    <lastmod>2025-12-11T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/series/</loc>
+    <lastmod>2025-12-11T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-12-11T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/writing/</loc>
+    <lastmod>2025-12-11T10:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/dessert/</loc>
     <lastmod>2025-12-09T19:51:00+00:00</lastmod>
@@ -38,13 +50,7 @@
     <loc>http://localhost:1313/categories/recipes/</loc>
     <lastmod>2025-12-09T19:51:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
-    <lastmod>2025-12-09T19:51:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/sweet/</loc>
-    <lastmod>2025-12-09T19:51:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-12-09T19:51:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/main-course/</loc>
@@ -54,12 +60,6 @@
     <lastmod>2025-12-09T19:16:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/code/</loc>
-    <lastmod>2024-09-30T23:16:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/random/</loc>
-    <lastmod>2024-09-30T23:16:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/writing/</loc>
-    <lastmod>2024-09-22T10:00:00+00:00</lastmod>
+    <lastmod>2025-09-30T23:16:00+00:00</lastmod>
   </url>
 </urlset>
