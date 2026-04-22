@@ -1,15 +1,19 @@
-name: Deploy to neocities
-
-# only run on changes to main. Use main or master depending on whatever your default branch is called.
+name: Build and deploy to neocities
 on:
   push:
     branches:
       - main
-
-concurrency: # prevent concurrent deploys doing strange things
-  group: deploy-to-neocities
-  cancel-in-progress: true
-
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: false
+defaults:
+  run:
+    shell: bash
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -22,7 +26,7 @@ jobs:
 
     steps:
     # The checkout step copies your repo into the action runner. Important!
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v5
     # Set up any tools and build steps here
     # This example uses a Node.js toolchain to build a site
     # If you don't need Node.js to build your site, you can omit this.
