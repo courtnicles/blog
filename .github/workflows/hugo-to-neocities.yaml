@@ -36,7 +36,6 @@ jobs:
       with:
         go-version: ${{ env.GO_VERSION }}
         cache: false
-        cache: false
     - name: Setup Pages
       id: pages
       uses: actions/configure-pages@v5
