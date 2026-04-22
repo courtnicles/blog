@@ -11,8 +11,14 @@ concurrency: # prevent concurrent deploys doing strange things
   cancel-in-progress: true
 
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
+    env:
+      DART_SASS_VERSION: 1.92.1
+      GO_VERSION: 1.25.1
+      HUGO_VERSION: 0.150.0
+      NODE_VERSION: 22.18.0
+      TZ: Europe/Oslo
 
     steps:
     # The checkout step copies your repo into the action runner. Important!
@@ -86,6 +92,10 @@ jobs:
       uses: actions/upload-pages-artifact@v3
       with:
         path: ./public
+
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
     # When the dist_dir is ready, deploy it to neocities
     # Here we deploy the folder named `public`
     - name: Deploy to neocities
