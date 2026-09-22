@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 240" width="480" height="240">
+  <rect width="480" height="240" fill="#E8D5D7"/>
+  <rect x="4" y="4" width="472" height="232" fill="none" stroke="#808080" stroke-width="2"/>
+  <rect x="10" y="10" width="460" height="220" fill="#ffffff" stroke="#3D2B5F" stroke-width="1"/>
+
+  <!-- sky -->
+  <rect x="10" y="10" width="460" height="220" fill="#bcd7e6"/>
+  <!-- sun -->
+  <circle cx="380" cy="60" r="26" fill="#f5d76e" stroke="#c9a227" stroke-width="2"/>
+  <!-- mountains -->
+  <polygon points="10,230 130,110 220,190 290,120 470,230" fill="#7a9a5c" stroke="#4f6b3a" stroke-width="2"/>
+  <polygon points="10,230 90,150 170,230" fill="#5c7a46" stroke="#3f5730" stroke-width="2"/>
+  <!-- ground -->
+  <rect x="10" y="200" width="460" height="30" fill="#a9c58a"/>
+
+  <text x="240" y="24" font-family="Courier New, monospace" font-size="14" fill="#3D2B5F" text-anchor="middle" font-weight="bold">place image here</text>
+</svg>

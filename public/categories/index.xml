@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Categories on courtnicles blog</title>
-		<link>http://localhost:1313/categories/</link>
+		<link>https://noveljeans.com/categories/</link>
 		<description>Recent content in Categories on courtnicles blog</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,40 +12,40 @@
 		
 			<lastBuildDate>Mon, 21 Sep 2026 22:11:00 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://noveljeans.com/categories/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Art</title>
-				<link>http://localhost:1313/categories/art/</link>
+				<link>https://noveljeans.com/categories/art/</link>
 				<pubDate>Mon, 21 Sep 2026 22:11:00 +0000</pubDate>
-				<guid>http://localhost:1313/categories/art/</guid>
+				<guid>https://noveljeans.com/categories/art/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Dream-Journal</title>
-				<link>http://localhost:1313/categories/dream-journal/</link>
+				<link>https://noveljeans.com/categories/dream-journal/</link>
 				<pubDate>Tue, 21 Apr 2026 22:11:00 +0000</pubDate>
-				<guid>http://localhost:1313/categories/dream-journal/</guid>
+				<guid>https://noveljeans.com/categories/dream-journal/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Writing</title>
-				<link>http://localhost:1313/categories/writing/</link>
+				<link>https://noveljeans.com/categories/writing/</link>
 				<pubDate>Thu, 11 Dec 2025 10:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/categories/writing/</guid>
+				<guid>https://noveljeans.com/categories/writing/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Recipes</title>
-				<link>http://localhost:1313/categories/recipes/</link>
+				<link>https://noveljeans.com/categories/recipes/</link>
 				<pubDate>Tue, 09 Dec 2025 19:51:00 +0000</pubDate>
-				<guid>http://localhost:1313/categories/recipes/</guid>
+				<guid>https://noveljeans.com/categories/recipes/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Code</title>
-				<link>http://localhost:1313/categories/code/</link>
+				<link>https://noveljeans.com/categories/code/</link>
 				<pubDate>Tue, 30 Sep 2025 23:16:00 +0000</pubDate>
-				<guid>http://localhost:1313/categories/code/</guid>
+				<guid>https://noveljeans.com/categories/code/</guid>
 				<description></description>
 			</item>
 	</channel>
