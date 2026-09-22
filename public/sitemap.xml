@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/posts/260421-dream/</loc>
+    <lastmod>2026-04-21T22:11:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/about/</loc>
     <lastmod>2025-12-11T10:00:00+00:00</lastmod>
   </url><url>
@@ -17,22 +20,34 @@
     <loc>http://localhost:1313/posts/post/</loc>
     <lastmod>2025-09-22T10:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/series/2026/</loc>
+    <lastmod>2026-04-21T22:11:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2026-04-21T22:11:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-04-21T22:11:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/dream/</loc>
+    <lastmod>2026-04-21T22:11:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/dream-journal/</loc>
+    <lastmod>2026-04-21T22:11:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-04-21T22:11:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/series/</loc>
+    <lastmod>2026-04-21T22:11:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-04-21T22:11:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/series/2025/</loc>
     <lastmod>2025-12-11T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-12-11T10:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-12-11T10:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/random/</loc>
-    <lastmod>2025-12-11T10:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/series/</loc>
-    <lastmod>2025-12-11T10:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-12-11T10:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/writing/</loc>
@@ -42,9 +57,6 @@
     <lastmod>2025-12-09T19:51:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/food/</loc>
-    <lastmod>2025-12-09T19:51:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-12-09T19:51:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/recipes/</loc>
