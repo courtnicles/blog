@@ -3,6 +3,11 @@ languageCode = 'en-us'
 title = 'courtnicles blog'
 theme = 'vintage-web-hugo-theme'
 
+# content/about/index.html is raw HTML; newer Hugo (0.16x) blocks that by
+# default (CI is pinned to 0.150.0, which doesn't need this override).
+[security]
+  allowContent = ['^text/html$', '! ^text/org$']
+
 # Pagination
 [pagination]
   pagerSize = 10
@@ -41,6 +46,11 @@ theme = 'vintage-web-hugo-theme'
   show_status_bar = false
   show_sidebar = false
   show_welcome_message = true
+  # welcome_image/welcome_caption now drive the static image + caption in the
+  # "welcome to my special place" window (used to be a scrolling marquee).
+  welcome_image = "images/welcome-placeholder.svg"
+  welcome_caption = ""
+  # No longer displayed on the homepage (kept here in case it's reused elsewhere).
   welcome_message = "I SAID WELCOME TO MY SPECIAL PLACE MY NAME IS COURTNEY AND I'VE been chaotic every since I was born in 1994. Sometimes things were good and sometimes they were bad. This is my attempt to understand my life and document my legacy. Yes, it is but a very humble one. But I tried. It all started when I was born. I was born on a Monday football night. My dad wanted to finish watching the game but my mom needed to push me out. I was a bit of a premie and also my mom was never affectionate. I was a formula baby. I believe this is why I have trouble (or believe that I have trouble) feeling comfort in social interactions. Nevertheless i did alright overall with the cards that i've been dealt. I grew up in the one of the biggest Vietnamese diaspora populations in San Jose, CA. For a while it didn't mean a lot to me. And then it did but I found out later in my life when I was lost that when I said 'the war' people didn't automatically know which one I was talking about. So I knew it was time to figure it out and take life by my own hands. This site is kind of one of those attempts. I've found that I can do a lot if I just try. I also try my best to connect with most kinds of people so I hope that you don't find me insufferable. Feel free to reach out if you have any random inquiries. Or suggestions."
 
   # Content Display
