@@ -16,9 +16,10 @@
         {{ end }}
         
         {{ if .Site.Params.show_welcome_message }}
-        <div class="marquee">
-            <div class="marquee-text">
-                {{ .Site.Params.welcome_message | default "let's pretend things were how they used to be for a bit" }}
+        <div class="welcome-showcase">
+            <img class="welcome-image" src="{{ .Site.Params.welcome_image | default "images/welcome-placeholder.svg" | relURL }}" alt="{{ .Site.Params.welcome_image_alt | default "welcome" }}">
+            <div class="welcome-caption">
+                {{ .Site.Params.welcome_caption | default "add your own text here" }}
             </div>
         </div>
         {{ end }}

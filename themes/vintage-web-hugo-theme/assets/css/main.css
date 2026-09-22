@@ -88,7 +88,7 @@ body {
     font-family: 'MS Sans Serif', 'Tahoma', 'Arial', sans-serif;
     font-size: 12px;
     line-height: 1.4;
-    background: var(--bg-primary);
+    background: var(--bg-primary) url('/images/bg-tile.svg') repeat;
     color: var(--text-primary);
     min-height: 100vh;
 }
@@ -180,8 +180,8 @@ a:visited {
 
 /* Navigation */
 .site-nav {
-    background: var(--button-face);
-    border: 1px outset var(--button-face);
+    background: linear-gradient(90deg, #316AC5 0%, #4A7BC8 100%);
+    border: 1px outset #316AC5;
     padding: 4px;
     margin: 8px 0;
 }
@@ -200,9 +200,9 @@ a:visited {
 .nav-link {
     display: block;
     padding: 4px 8px;
-    background: var(--button-face);
-    border: 1px outset var(--button-face);
-    color: var(--text-primary);
+    background: #316AC5;
+    border: 1px outset #316AC5;
+    color: #ffffff;
     text-decoration: none;
     font-size: 12px;
     font-weight: normal;
@@ -210,12 +210,12 @@ a:visited {
 
 .nav-link:hover,
 .nav-link:focus {
-    background: var(--highlight);
+    background: #4A7BC8;
     color: white;
 }
 
 .nav-link:active {
-    border: 1px inset var(--button-face);
+    border: 1px inset #316AC5;
 }
 
 /* Content Areas */
@@ -432,25 +432,25 @@ a:visited {
 
 /* Buttons and Form Elements */
 .btn {
-    background: var(--button-face);
-    border: 1px outset var(--button-face);
+    background: #316AC5;
+    border: 1px outset #316AC5;
     padding: 4px 8px;
     font-family: inherit;
     font-size: 12px;
     cursor: pointer;
     text-decoration: none;
-    color: var(--text-primary);
+    color: #ffffff;
     display: inline-block;
     margin: 2px;
 }
 
 .btn:hover {
-    background: var(--highlight);
+    background: #4A7BC8;
     color: white;
 }
 
 .btn:active {
-    border: 1px inset var(--button-face);
+    border: 1px inset #316AC5;
 }
 
 /* Post Lists */
@@ -696,22 +696,26 @@ body {
     51%, 100% { opacity: 0; }
 }
 
-.marquee {
+.welcome-showcase {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+}
+
+.welcome-image {
+    max-width: 100%;
+    border: 1px inset var(--border-dark);
+    background: var(--bg-secondary);
+}
+
+.welcome-caption {
     background: var(--bg-secondary);
     border: 1px inset var(--border-dark);
-    padding: 4px;
-    overflow: hidden;
-    white-space: nowrap;
-}
-
-.marquee-text {
-    display: inline-block;
-    animation: marquee 10s linear infinite;
-}
-
-@keyframes marquee {
-    0% { transform: translateX(100%); }
-    100% { transform: translateX(-100%); }
+    padding: 4px 8px;
+    width: 100%;
+    box-sizing: border-box;
+    text-align: center;
 }
 
 /* Tag Cloud */
